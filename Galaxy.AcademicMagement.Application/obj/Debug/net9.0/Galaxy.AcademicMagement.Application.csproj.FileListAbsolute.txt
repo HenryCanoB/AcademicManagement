@@ -1,0 +1,15 @@
+D:\HC\Capacitacion\10.Arquitectura_Net_9\Trabajo Final\Galaxy.AcademicManagement\Galaxy.AcademicMagement.Application\bin\Debug\net9.0\Galaxy.AcademicMagement.Application.deps.json
+D:\HC\Capacitacion\10.Arquitectura_Net_9\Trabajo Final\Galaxy.AcademicManagement\Galaxy.AcademicMagement.Application\bin\Debug\net9.0\Galaxy.AcademicMagement.Application.dll
+D:\HC\Capacitacion\10.Arquitectura_Net_9\Trabajo Final\Galaxy.AcademicManagement\Galaxy.AcademicMagement.Application\bin\Debug\net9.0\Galaxy.AcademicMagement.Application.pdb
+D:\HC\Capacitacion\10.Arquitectura_Net_9\Trabajo Final\Galaxy.AcademicManagement\Galaxy.AcademicMagement.Application\bin\Debug\net9.0\Galaxy.AcademicMagement.Domain.dll
+D:\HC\Capacitacion\10.Arquitectura_Net_9\Trabajo Final\Galaxy.AcademicManagement\Galaxy.AcademicMagement.Application\bin\Debug\net9.0\Galaxy.AcademicMagement.Domain.pdb
+D:\HC\Capacitacion\10.Arquitectura_Net_9\Trabajo Final\Galaxy.AcademicManagement\Galaxy.AcademicMagement.Application\obj\Debug\net9.0\Galaxy.AcademicMagement.Application.csproj.AssemblyReference.cache
+D:\HC\Capacitacion\10.Arquitectura_Net_9\Trabajo Final\Galaxy.AcademicManagement\Galaxy.AcademicMagement.Application\obj\Debug\net9.0\Galaxy.AcademicMagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\HC\Capacitacion\10.Arquitectura_Net_9\Trabajo Final\Galaxy.AcademicManagement\Galaxy.AcademicMagement.Application\obj\Debug\net9.0\Galaxy.AcademicMagement.Application.AssemblyInfoInputs.cache
+D:\HC\Capacitacion\10.Arquitectura_Net_9\Trabajo Final\Galaxy.AcademicManagement\Galaxy.AcademicMagement.Application\obj\Debug\net9.0\Galaxy.AcademicMagement.Application.AssemblyInfo.cs
+D:\HC\Capacitacion\10.Arquitectura_Net_9\Trabajo Final\Galaxy.AcademicManagement\Galaxy.AcademicMagement.Application\obj\Debug\net9.0\Galaxy.AcademicMagement.Application.csproj.CoreCompileInputs.cache
+D:\HC\Capacitacion\10.Arquitectura_Net_9\Trabajo Final\Galaxy.AcademicManagement\Galaxy.AcademicMagement.Application\obj\Debug\net9.0\Galaxy.A.8E9A9409.Up2Date
+D:\HC\Capacitacion\10.Arquitectura_Net_9\Trabajo Final\Galaxy.AcademicManagement\Galaxy.AcademicMagement.Application\obj\Debug\net9.0\Galaxy.AcademicMagement.Application.dll
+D:\HC\Capacitacion\10.Arquitectura_Net_9\Trabajo Final\Galaxy.AcademicManagement\Galaxy.AcademicMagement.Application\obj\Debug\net9.0\refint\Galaxy.AcademicMagement.Application.dll
+D:\HC\Capacitacion\10.Arquitectura_Net_9\Trabajo Final\Galaxy.AcademicManagement\Galaxy.AcademicMagement.Application\obj\Debug\net9.0\Galaxy.AcademicMagement.Application.pdb
+D:\HC\Capacitacion\10.Arquitectura_Net_9\Trabajo Final\Galaxy.AcademicManagement\Galaxy.AcademicMagement.Application\obj\Debug\net9.0\ref\Galaxy.AcademicMagement.Application.dll

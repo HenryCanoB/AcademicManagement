@@ -1,0 +1,46 @@
+services:
+    postgresql_TF:
+     image: postgres:latest
+     container_name: postgresql_TF
+     restart: always
+     environment:
+         POSTGRES_USER: admin
+         POSTGRES_PASSWORD: password2025
+         POSTGRES_DB: AcademicManagement_db
+     ports:
+         - "1601:5432"
+     volumes:
+         - D:\HC\Capacitacion\10.Arquitectura_Net_9\Trabajo Final\Volumenes_postgres_data:/var/lib/postgresql/data
+     networks:
+          - galaxy_arq_clean_TF
+
+    elasticsearch_TF:
+        image: docker.elastic.co/elasticsearch/elasticsearch:8.15.0
+        container_name: elasticsearch_TF
+        environment:
+          - discovery.type=single-node
+          - xpack.security.enabled=false
+          - xpack.security.http.ssl.enabled=false
+          - ES_JAVA_OPTS=-Xms1g -Xmx1g
+        ports:
+          - "9201:9200"
+        volumes:
+          - D:\HC\Capacitacion\10.Arquitectura_Net_9\Trabajo Final\VolumenesDocker_ElasticSearch:/usr/share/elasticsearch/data
+        networks:
+          - galaxy_arq_clean_TF
+
+    kibana_TF:
+        image: docker.elastic.co/kibana/kibana:8.15.0
+        container_name: kibana_TF
+        environment:
+          - ELASTICSEARCH_HOSTS=http://elasticsearch_TF:9200
+        ports:
+          - "5602:5601"
+        depends_on:
+          - elasticsearch_TF
+        networks:
+          - galaxy_arq_clean_TF
+
+networks:
+   galaxy_arq_clean_TF:
+    driver: bridge

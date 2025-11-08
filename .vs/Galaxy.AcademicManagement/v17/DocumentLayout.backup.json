@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HC\\Capacitacion\\10.Arquitectura_Net_9\\Trabajo Final\\Galaxy.AcademicManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{148B0261-FDB2-4738-A596-1D66FD573D64}|Galaxy.AcademicMagement.Application\\Galaxy.AcademicMagement.Application.csproj|d:\\hc\\capacitacion\\10.arquitectura_net_9\\trabajo final\\galaxy.academicmanagement\\galaxy.academicmagement.application\\handlers\\enrollments\\getbycourse\\getenrollmentsbycoursequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{148B0261-FDB2-4738-A596-1D66FD573D64}|Galaxy.AcademicMagement.Application\\Galaxy.AcademicMagement.Application.csproj|solutionrelative:galaxy.academicmagement.application\\handlers\\enrollments\\getbycourse\\getenrollmentsbycoursequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDB49139-FD94-4F6A-B5CD-FDC61E49CCFD}|Galaxy.AcademicManagement.API\\Galaxy.AcademicManagement.API.csproj|d:\\hc\\capacitacion\\10.arquitectura_net_9\\trabajo final\\galaxy.academicmanagement\\galaxy.academicmanagement.api\\controllers\\enrollmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDB49139-FD94-4F6A-B5CD-FDC61E49CCFD}|Galaxy.AcademicManagement.API\\Galaxy.AcademicManagement.API.csproj|solutionrelative:galaxy.academicmanagement.api\\controllers\\enrollmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3DB2149-1EEA-4FDE-ABF3-48E125DCF5EF}|Galaxy.AcademicMagement.Infrastructure\\Galaxy.AcademicMagement.Infrastructure.csproj|d:\\hc\\capacitacion\\10.arquitectura_net_9\\trabajo final\\galaxy.academicmanagement\\galaxy.academicmagement.infrastructure\\persistence\\repositories\\enrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3DB2149-1EEA-4FDE-ABF3-48E125DCF5EF}|Galaxy.AcademicMagement.Infrastructure\\Galaxy.AcademicMagement.Infrastructure.csproj|solutionrelative:galaxy.academicmagement.infrastructure\\persistence\\repositories\\enrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetEnrollmentsByCourseQueryHandler.cs",
+              "DocumentMoniker": "D:\\HC\\Capacitacion\\10.Arquitectura_Net_9\\Trabajo Final\\Galaxy.AcademicManagement\\Galaxy.AcademicMagement.Application\\Handlers\\Enrollments\\GetByCourse\\GetEnrollmentsByCourseQueryHandler.cs",
+              "RelativeDocumentMoniker": "Galaxy.AcademicMagement.Application\\Handlers\\Enrollments\\GetByCourse\\GetEnrollmentsByCourseQueryHandler.cs",
+              "ToolTip": "D:\\HC\\Capacitacion\\10.Arquitectura_Net_9\\Trabajo Final\\Galaxy.AcademicManagement\\Galaxy.AcademicMagement.Application\\Handlers\\Enrollments\\GetByCourse\\GetEnrollmentsByCourseQueryHandler.cs",
+              "RelativeToolTip": "Galaxy.AcademicMagement.Application\\Handlers\\Enrollments\\GetByCourse\\GetEnrollmentsByCourseQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T04:55:44.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnrollmentsController.cs",
+              "DocumentMoniker": "D:\\HC\\Capacitacion\\10.Arquitectura_Net_9\\Trabajo Final\\Galaxy.AcademicManagement\\Galaxy.AcademicManagement.API\\Controllers\\EnrollmentsController.cs",
+              "RelativeDocumentMoniker": "Galaxy.AcademicManagement.API\\Controllers\\EnrollmentsController.cs",
+              "ToolTip": "D:\\HC\\Capacitacion\\10.Arquitectura_Net_9\\Trabajo Final\\Galaxy.AcademicManagement\\Galaxy.AcademicManagement.API\\Controllers\\EnrollmentsController.cs",
+              "RelativeToolTip": "Galaxy.AcademicManagement.API\\Controllers\\EnrollmentsController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T04:55:34.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnrollmentRepository.cs",
+              "DocumentMoniker": "D:\\HC\\Capacitacion\\10.Arquitectura_Net_9\\Trabajo Final\\Galaxy.AcademicManagement\\Galaxy.AcademicMagement.Infrastructure\\Persistence\\Repositories\\EnrollmentRepository.cs",
+              "RelativeDocumentMoniker": "Galaxy.AcademicMagement.Infrastructure\\Persistence\\Repositories\\EnrollmentRepository.cs",
+              "ToolTip": "D:\\HC\\Capacitacion\\10.Arquitectura_Net_9\\Trabajo Final\\Galaxy.AcademicManagement\\Galaxy.AcademicMagement.Infrastructure\\Persistence\\Repositories\\EnrollmentRepository.cs",
+              "RelativeToolTip": "Galaxy.AcademicMagement.Infrastructure\\Persistence\\Repositories\\EnrollmentRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T04:55:00.866Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
